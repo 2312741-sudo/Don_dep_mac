@@ -1,0 +1,7 @@
+.DS_Store
+build/
+src/gemini_api_key
+__pycache__/
+*.pyc
+*.swp
+*.orig
